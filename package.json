@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/CDESmith/grunt-demo/issues"
   },
-  "homepage": "https://github.com/CDESmith/grunt-demo#readme"
+  "homepage": "https://github.com/CDESmith/grunt-demo#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0"
+  }
 }
